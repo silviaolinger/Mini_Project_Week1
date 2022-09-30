@@ -1,0 +1,82 @@
+HTML{
+  font-family: 'Courier New', Courier, monospace;
+}
+header {
+  width: 100%;
+  background-color: rgba(138, 111, 207, 0.655);
+  display: relative;
+ 
+  
+}
+
+h2 {
+  text-align: center;
+  color:purple;
+  
+}
+h3{
+  text-align: center;
+  color:purple;
+  background-color: lightsalmon;
+
+}
+form{
+  
+ 
+width: 300px;
+padding:1em;
+border:5px solid gray;
+border-radius:1em;
+background-color:lightgray;}
+
+form section + section{
+  margin-top: 1em;
+}
+
+label{ display:inline-block;
+  text-align:left;
+  width:70px;
+  color: purple;
+  -moz-text-decoration-style: solid;
+}
+
+textarea {
+  vertical-align: top;
+}
+#footer{
+  
+position:absolute;
+text-align: center;
+background-color: rgba(138, 111, 207, 0.655);
+color:yellow;
+font-size:12px;
+width:100%;
+height: 40px;
+bottom:0;
+font-family: 'Courier New', Courier, monospace;
+text-decoration: solid;
+}
+
+
+
+
+.display-inline{display:inline}
+
+.hlist {
+list-style-type:none;
+text-align: right;
+  font-size: medium;
+  
+
+  }
+.button {
+  padding-left:67px;
+  margin-left:.50em;
+
+}
+
+
+.image-2{
+  margin-left:0;
+
+}  
